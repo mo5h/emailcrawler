@@ -1,0 +1,3 @@
+<!ENTITY emailaddresscrawler.folderpane.context.crawlfolder.label "Crawl folder for email addresses">
+<!ENTITY emailaddresscrawler.threadpane.context.crawlemails.label "Crawl selected emails for email addresses">
+<!ENTITY emailaddresscrawler.context.crawl.accesskey "C">

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "emailcrawler",
+  "description": "Email Address Crawler - Kaosmos version",
+  "version": "5.1.2",
+  "author": "Torge Kummerow",
+  "homepage_url": "https://nic-nac-project.org/~kaosmos"
+,
+  "applications": {
+    "gecko": {
+      "id": "emailcrawler@torge.kummerow",
+      "strict_min_version": "67.0"
+    }
+  },
+  "icons": {
+    "48": "skin/logo_main.png"
+  }
+}

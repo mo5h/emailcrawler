@@ -1,0 +1,4 @@
+content	emailaddresscrawler	content/
+locale	emailaddresscrawler	en-US	locale/en-US/
+skin	emailaddresscrawler	classic/1.0	skin/
+overlay	chrome://messenger/content/messenger.xul	chrome://emailaddresscrawler/content/XULs/messenger_overlay.xul

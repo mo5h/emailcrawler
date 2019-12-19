@@ -1,0 +1,29 @@
+<!ENTITY title.name "Search parameters">
+
+<!ENTITY locationGroup.caption "Search ">
+<!ENTITY locationGroup.cb.searchSubfolders "Search subfolders">
+
+<!ENTITY fieldGroup.caption "Search fields">
+<!ENTITY fieldGroup.description "Select which fields should be searched">
+<!ENTITY fieldGroup.cb.to "To">
+<!ENTITY fieldGroup.cb.from "From">
+<!ENTITY fieldGroup.cb.cc "CC">
+<!ENTITY fieldGroup.cb.body "Body">
+
+<!ENTITY extraFromGroup.caption "Further From and Reply-To settings">
+<!ENTITY extraFromGroup.description "Select how the FROM field should be processed. REPLY-TO is an optional field which normally contains the adress to which the user should send the reply to.">
+<!ENTITY extraFromGroup.rg.from "Only FROM fields">
+<!ENTITY extraFromGroup.rg.replyOverFrom "Prefer REPLY-TO over FROM where possible (advised)">
+<!ENTITY extraFromGroup.rg.reply "Only REPLY-TO fields">
+<!ENTITY extraFromGroup.rg.fromAndReply "Both FROM and REPLY-TO fields">
+
+<!ENTITY occurGroup.caption "Needed # of occurrences">
+
+<!ENTITY actionGroup.caption "Choose what should happen with the addresses">
+<!ENTITY actionGroup.rg.addressbook "Fill into an addressbook">
+<!ENTITY actionGroup.rg.sendAsCC "Send using CC field">
+<!ENTITY actionGroup.rg.sendAsBCC "Send using BCC field">
+
+<!ENTITY addressGroup.caption "Choose a addressbook as a target for the found addresses">
+<!ENTITY addressGroup.label "Select...">
+<!ENTITY noSkip.label "Collect addresses even if present in other addressbooks">
