@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "emailcrawler",
-  "description": "Email Address Crawler - Kaosmos version",
-  "version": "5.1.2",
-  "author": "Torge Kummerow",
-  "homepage_url": "https://nic-nac-project.org/~kaosmos"
+  "name": "emailcrawler-webext",
+  "description": "Email Address Crawler - webextension version",
+  "version": "6.0.0",
+  "author": "Hamish Farrant",
+  "homepage_url": "https://github.com/mo5h/emailcrawler"
 ,
   "applications": {
     "gecko": {
-      "id": "emailcrawler@torge.kummerow",
+      "id": "address_crawler@ehmish.net",
       "strict_min_version": "67.0"
     }
   },
